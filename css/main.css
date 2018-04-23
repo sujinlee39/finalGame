@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+	user-select: none;
+	font-size: 16px;
+	color: white;
+	background-color: #727687;
+  background-image: url("https://www.transparenttextures.com/patterns/notebook-dark.png");
+}
+
+canvas
+{
+	position: relative;
+	border:1px solid #d3d3d3;
+	display: block;
+	margin: 0 auto 20px;
+  cursor: none;
+}
+
+button {  margin: 0 8px; user-select: none; cursor: pointer; }
